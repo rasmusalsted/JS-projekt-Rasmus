@@ -1,0 +1,23 @@
+Vanilla Javascript Projekt
+
+Min første tanke var at jeg ville lave et spil
+som tog udgangspunkt i et PIXI spil jeg havde fundet på google.
+det viste sig dog hurtigt at det var lidt kompliceret at få "smedet" 
+sammen med min idé, og selv hvis jeg kunne få det til at virke,
+ville jeg nok ikke kunne redegøre for koden.
+
+derfor valgte jeg en lidt mere legende tilgang, uden et helt klart mål,
+men med fokus på at forstå, hvad jeg havde gang i,
+og ligesom prøve mig lidt frem.
+Idéer var der nok af.
+
+som dagene skred frem og min forståelse blev større 
+begyndte min idé til slutproduktet at tage form,
+og jeg vil sige at jeg kom i mål, og er godt tilfreds med resultatet.
+
+min tilgang til opgaven betyder dog at det var svært at lave en wireframe, 
+og jeg synes det er lidt fjollet at lave den på bagkant.
+
+Rasmus
+
+
